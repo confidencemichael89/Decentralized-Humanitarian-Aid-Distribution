@@ -5,3 +5,5 @@ Q
 !contracts/donor-verification.clar,1/6/16c2ef646119e1dbff4661a259716d50d587be15
 Q
 !contracts/impact-measurement.clar,7/7/7765dce0edaef472557ecdb6faf8a55698ad8afd
+U
+%contracts/recipient-verification.clar,b/3/b306b45d90d64a43712fe5ac47a7f979d6ff0a08
